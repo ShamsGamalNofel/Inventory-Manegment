@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556282307 source:c:\users\amr\desktop\codes\inventory manegment\main.cpp
+	<iostream>
+	<algorithm>
+	<iomanip>
+
